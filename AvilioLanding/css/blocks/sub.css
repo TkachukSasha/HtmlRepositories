@@ -1,0 +1,136 @@
+.sub__photo{
+    width: 638.46px;
+    height: 573.26px;
+    background: rgba(1, 153, 109, 0.2);
+    border-radius: 18.1125px;
+    margin-top: 120px;
+    margin-left: 335px;
+    margin-right: 86px;
+}
+
+.sub__photo-img{
+    position: absolute;
+    background-image: url(/images/sub-bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 427.6px;
+    height: 641.05px;
+    margin-top: -68px;
+    margin-left: 97px;
+    margin-bottom: 354px;
+}
+
+.sub__wrapper{
+    margin-top: 120px;
+}
+
+.sub__title{
+    width: 136px;
+    height: 39px;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 157%;
+    color: #424242;
+    margin-bottom: 10px;
+}
+
+.sub__title-sub{
+    width: 584px;
+    height: 158px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+    color: #01996D;
+    margin-bottom: 20px;
+}
+
+.sub__text{
+    width: 530px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+    color: #484848;
+    margin-bottom: 40px;
+}
+
+.sub__btn{
+    width: 227px;
+    height: 65px;
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+
+.sub__photo-description{
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    width: 296.14px;
+    height: 293.9px;
+    background: #FFFFFF;
+    border-radius: 3.72971px;
+    margin-top: 474px;
+    margin-right: 503px;
+    margin-left: -150px;
+    margin-bottom: 23px;
+}
+
+.sub__photo-title{
+    width: 130.54px;
+    height: 23.12px;
+    font-weight: 600;
+    font-size: 14.49px;
+    line-height: 157%;
+    color: #000000;
+    margin-left: 97px;
+    margin-right: 97px;
+}
+
+.sub__photo-hr{
+    width: 110.49px;
+    border: 0.745942px solid #000000;
+    margin-bottom: 25px;
+}
+
+.sub__photo-circle {
+    width: 70px;
+    height: 70px;
+    margin-left: 113px;
+    margin-bottom: 5px;
+} 
+
+.sub__photo-sub-img{
+    background: rgba(1, 153, 109, 0.2);
+    border-radius: 50px;
+    padding-top: 2px;
+    padding-left: 3px;
+}
+
+.sub__photo-title-sub{
+    margin: auto 127px 20px 127px;
+    font-weight: 400;
+    font-size: 11.9351px;
+    line-height: 157%;
+    color: #000000;
+}
+
+.sub__photo-sub{
+    font-weight: 700;
+    font-size: 15.9292px;
+    line-height: 157%;
+    color: #000000;
+    margin-left: 61px;
+    margin-bottom: 16px;
+}
+
+.sub__photo-item{
+    font-weight: 400;
+    font-size: 10.6195px;
+    line-height: 157%;
+    color: #000000;
+    margin-left: 61px;
+    margin-bottom: 16px;
+}

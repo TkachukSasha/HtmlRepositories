@@ -1,0 +1,25 @@
+.footer__container{
+    width: 1920px;
+    height: 654px;
+    background: #245852;
+}
+
+.footer__items{
+    color: #FFFFFF;
+    padding-top: 95px;
+    margin-left: 275px;
+}
+
+.footer__item-title{
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    margin-bottom: 60px;
+}
+
+.footer__item{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 60px;
+}
